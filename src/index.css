@@ -5,10 +5,13 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+<<<<<<< HEAD
   background-color: rgb(201, 182, 219);
   padding-left: 100px;
   padding-right: 100px;
 
+=======
+>>>>>>> 1db237e5ae0f30eef83cb7225c870fd9fd8a31e2
 }
 
 code {
