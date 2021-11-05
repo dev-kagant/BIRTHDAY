@@ -1,0 +1,223 @@
+{
+    "ethereum": {
+        "data": {
+            "id": "ethereum",
+            "rank": "2",
+            "symbol": "ETH",
+            "name": "Ethereum",
+            "supply": "118216649.0615000000000000",
+            "maxSupply": null,
+            "marketCapUsd": "531584893167.5438814939997665",
+            "volumeUsd24Hr": "11983500211.8028768009326542",
+            "priceUsd": "4496.7007387512463330",
+            "changePercent24Hr": "-0.8871177799855668",
+            "vwap24Hr": "4517.0319920306083340",
+            "explorer": "https://etherscan.io/"
+        },
+        "timestamp": 1636111771595
+    },
+    "tether": {
+        "data": {
+            "id": "tether",
+            "rank": "4",
+            "symbol": "USDT",
+            "name": "Tether",
+            "supply": "71774304634.6513700000000000",
+            "maxSupply": null,
+            "marketCapUsd": "71907980468.1608396545612758",
+            "volumeUsd24Hr": "62964766175.6932313232896195",
+            "priceUsd": "1.0018624469326441",
+            "changePercent24Hr": "0.0581830605351509",
+            "vwap24Hr": "1.0011646640292835",
+            "explorer": "https://www.omniexplorer.info/asset/31"
+        },
+        "timestamp": 1636111944064
+    },
+    "multi-collateral-dai": {
+        "data": {
+            "id": "multi-collateral-dai",
+            "rank": "35",
+            "symbol": "DAI",
+            "name": "Multi Collateral DAI",
+            "supply": "6474951713.6353770000000000",
+            "maxSupply": null,
+            "marketCapUsd": "6478533561.8252651259668090",
+            "volumeUsd24Hr": "252350621.3091885185219301",
+            "priceUsd": "1.0005531853129260",
+            "changePercent24Hr": "0.0151570708616745",
+            "vwap24Hr": "1.0006980562026017",
+            "explorer": "https://etherscan.io/token/0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359"
+        },
+        "timestamp": 1636111991963
+    },
+    "waves": {
+        "data": {
+            "id": "waves",
+            "rank": "64",
+            "symbol": "WAVES",
+            "name": "Waves",
+            "supply": "106615510.0000000000000000",
+            "maxSupply": null,
+            "marketCapUsd": "2742176933.9853206433829070",
+            "volumeUsd24Hr": "53143792.8402386069235656",
+            "priceUsd": "25.7202440243949557",
+            "changePercent24Hr": "-0.0620372497347879",
+            "vwap24Hr": "25.7294907833986386",
+            "explorer": "http://wavesexplorer.com/"
+        },
+        "timestamp": 1636112012375
+    },
+    "litecoin": {
+        "data": {
+            "id": "litecoin",
+            "rank": "18",
+            "symbol": "LTC",
+            "name": "Litecoin",
+            "supply": "68905095.1367999000000000",
+            "maxSupply": "84000000.0000000000000000",
+            "marketCapUsd": "13789022887.2933391989902454",
+            "volumeUsd24Hr": "852375046.6300238358555446",
+            "priceUsd": "200.1161577372104172",
+            "changePercent24Hr": "-1.0542960441627699",
+            "vwap24Hr": "201.3437302090292822",
+            "explorer": "http://explorer.litecoin.net/chain/Litecoin"
+        },
+        "timestamp": 1636112029765
+    },
+    "dogecoin": {
+        "data": {
+            "id": "dogecoin",
+            "rank": "9",
+            "symbol": "DOGE",
+            "name": "Dogecoin",
+            "supply": "131984159972.1602300000000000",
+            "maxSupply": null,
+            "marketCapUsd": "34635751270.6947482063647402",
+            "volumeUsd24Hr": "1195734631.3564847131032584",
+            "priceUsd": "0.2624235459618833",
+            "changePercent24Hr": "-0.5404645930758693",
+            "vwap24Hr": "0.2624580925016324",
+            "explorer": "http://dogechain.info/chain/Dogecoin"
+        },
+        "timestamp": 1636112044380
+    },
+    "bitcoin-cash": {
+        "data": {
+            "id": "bitcoin-cash",
+            "rank": "21",
+            "symbol": "BCH",
+            "name": "Bitcoin Cash",
+            "supply": "18891862.5000000000000000",
+            "maxSupply": "21000000.0000000000000000",
+            "marketCapUsd": "11455083365.2225345177271175",
+            "volumeUsd24Hr": "484790894.9291720877361974",
+            "priceUsd": "606.3501343619526406",
+            "changePercent24Hr": "1.0181272326949616",
+            "vwap24Hr": "599.2109996701901466",
+            "explorer": "https://blockchair.com/bitcoin-cash/blocks"
+        },
+        "timestamp": 1636112064138
+    },
+    "zcash": {
+        "data": {
+            "id": "zcash",
+            "rank": "78",
+            "symbol": "ZEC",
+            "name": "Zcash",
+            "supply": "13019512.5000000000000000",
+            "maxSupply": "21000000.0000000000000000",
+            "marketCapUsd": "2152537565.7617453294359988",
+            "volumeUsd24Hr": "222660746.1010021767304187",
+            "priceUsd": "165.3316562937164759",
+            "changePercent24Hr": "-1.7806454296058997",
+            "vwap24Hr": "164.4162976801856178",
+            "explorer": "https://explorer.zcha.in/"
+        },
+        "timestamp": 1636112082490
+    },
+    "binance-coin": {
+        "data": {
+            "id": "binance-coin",
+            "rank": "3",
+            "symbol": "BNB",
+            "name": "Binance Coin",
+            "supply": "166801148.0000000000000000",
+            "maxSupply": "166801148.0000000000000000",
+            "marketCapUsd": "101565172768.8602109532198624",
+            "volumeUsd24Hr": "2134062232.8462311507624747",
+            "priceUsd": "608.8997227336841288",
+            "changePercent24Hr": "9.5187187520898674",
+            "vwap24Hr": "575.3381947067037263",
+            "explorer": "https://etherscan.io/token/0xB8c77482e45F1F44dE1745F52C74426C631bDD52"
+        },
+        "timestamp": 1636112121535
+    },
+    "dash": {
+        "data": {
+            "id": "dash",
+            "rank": "80",
+            "symbol": "DASH",
+            "name": "Dash",
+            "supply": "10416061.1629976500000000",
+            "maxSupply": "18900000.0000000000000000",
+            "marketCapUsd": "2039911346.3254130347398264",
+            "volumeUsd24Hr": "244924450.7723563306595718",
+            "priceUsd": "195.8428732707580075",
+            "changePercent24Hr": "-1.9683288217532291",
+            "vwap24Hr": "198.4956148836190025",
+            "explorer": "https://explorer.dash.org"
+        },
+        "timestamp": 1636112135607
+    },
+    "eos": {
+        "data": {
+            "id": "eos",
+            "rank": "46",
+            "symbol": "EOS",
+            "name": "EOS",
+            "supply": "962498491.7425000000000000",
+            "maxSupply": null,
+            "marketCapUsd": "4354282159.6119030518058269",
+            "volumeUsd24Hr": "405154246.9865722940983260",
+            "priceUsd": "4.5239366055825641",
+            "changePercent24Hr": "-1.4521044215840886",
+            "vwap24Hr": "4.5400728716496775",
+            "explorer": "https://bloks.io/"
+        },
+        "timestamp": 1636112156456
+    },
+    "qtum": {
+        "data": {
+            "id": "qtum",
+            "rank": "89",
+            "symbol": "QTUM",
+            "name": "Qtum",
+            "supply": "98836930.7260568000000000",
+            "maxSupply": "107822406.0000000000000000",
+            "marketCapUsd": "1543255486.0892046727563868",
+            "volumeUsd24Hr": "111149213.5730891361934513",
+            "priceUsd": "15.6141583389168283",
+            "changePercent24Hr": "-1.1546855231335982",
+            "vwap24Hr": "15.7419071459326186",
+            "explorer": "https://qtum.info/"
+        },
+        "timestamp": 1636112174472
+    },
+    "bitcoin": {
+        "data": {
+            "id": "bitcoin",
+            "rank": "1",
+            "symbol": "BTC",
+            "name": "Bitcoin",
+            "supply": "18864362.0000000000000000",
+            "maxSupply": "21000000.0000000000000000",
+            "marketCapUsd": "1164240095252.4758145750957442",
+            "volumeUsd24Hr": "20615287231.5551676744396528",
+            "priceUsd": "61716.3779645702205341",
+            "changePercent24Hr": "0.0190513740990775",
+            "vwap24Hr": "61861.1958044311220595",
+            "explorer": "https://blockchain.info/"
+        },
+        "timestamp": 1636112191389
+    }
+}

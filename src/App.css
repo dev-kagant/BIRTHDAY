@@ -1,0 +1,58 @@
+.Home {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 18pt;
+}
+
+h1{
+    font-size: 80pt;
+    margin: 0;
+}
+
+h3{
+    font-size: 45pt;
+    margin: 0;
+    margin-bottom: 20pt;
+}
+
+button {
+    font-size: 25pt;
+    background-color: rgba(255, 255, 255, 0);
+    border: none;
+    margin-left: 15px;
+}
+
+table{
+    width: 80%;
+    border-collapse: collapse;
+}
+
+thead{
+    background-color: rgba(137, 43, 226, 0.849);
+}
+
+th, td {
+    padding: 15px;
+    text-align: center;
+  }
+
+tr{
+    border-bottom: 1px solid rgb(43, 0, 83);
+    background-color: rgba(137, 43, 226, 0.315);
+    height: 50px;
+}
+
+.price{
+    width: 300pt;
+}
+
+.down{
+    color: rgb(121, 7, 7);
+    font-weight: bold;
+}
+
+.up{
+    font-weight: bold;
+    color:rgb(89, 141, 47);
+}
